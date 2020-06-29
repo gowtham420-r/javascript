@@ -1,0 +1,25 @@
+.para{
+    background-color: #ddd;
+    color: green;
+}
+#para{
+    background-color: yellow;
+    color:green;
+}
+.para{
+    background-color: #ddd;
+    color:green;
+}
+#paragraph{
+    background-color: #ddd;
+    color:yellow;
+}
+.first{
+    border:2px solid #000;
+    margin:2px;
+    width:400px;
+}
+.first img,.second img,.third-img,.forth img{
+    width: 200px;
+    
+}
